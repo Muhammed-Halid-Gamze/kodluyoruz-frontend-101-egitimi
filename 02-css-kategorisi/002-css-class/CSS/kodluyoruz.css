@@ -1,0 +1,19 @@
+/* *******************Layout ***********************/
+
+/* class için   .text-red{}    */
+/* id için      #id-bilgisi {}  */
+h1, h2, h3, h4, h5, h6 {
+color:brown;
+}
+
+.text-red {
+    color:red;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+#first-article {
+    font-size: 30px;
+}
