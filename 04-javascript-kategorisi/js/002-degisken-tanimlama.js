@@ -49,3 +49,18 @@ console.log(SERVER_PASSWORD)
 
 // SERVER_PASSWORD = "1234"
 // console.log(SERVER_PASSWORD)
+
+
+let ad = "Muhammed"
+let soyad = " Gamze"
+
+
+const parola = "safhg3422";
+
+console.log(parola);
+
+ad += " Halid"
+
+console.log(ad);
+
+
