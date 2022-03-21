@@ -14,3 +14,4 @@ liDOM.innerHTML = "Kendi Olusturdugumuz Oge"
 // ulDOM.append(liDOM) // en sona ekler
 ulDOM.prepend(liDOM)
 
+ 
