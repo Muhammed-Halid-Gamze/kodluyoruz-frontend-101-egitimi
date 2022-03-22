@@ -17,3 +17,10 @@ let items = [1,2,3, user]
 localStorage.setItem('newItems', JSON.stringify(items))
 
 let newItems = JSON.parse( localStorage.getItem('newItem') ) //JSON Parse ile localStorage icindeki bilginin cekilip kullanilmasi..
+
+let araclar = [4,5,6, user]
+// localStorage.setItem("yeniAraclar", araclar) hatalı
+
+
+
+
